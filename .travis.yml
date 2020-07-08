@@ -1,2 +1,4 @@
+install: ./install-dependencies.sh
 git:
-  depth: 3
+  depth: 40
+language: ruby
